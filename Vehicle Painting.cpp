@@ -1,4 +1,3 @@
-// Created by Toufeeq Ahmed
 
 #include<iostream>
 #include<iomanip>
